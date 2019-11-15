@@ -1,0 +1,41 @@
+### Vipers Hardcore Datapack
+----------------------------
+Created to enforce teamplay on SMP Servers and inhibit solo mining
+
+> Notable Changes:
+- Mobs:
+  - Most Nighttime mobs:
+    - Increased Health and Modified Movespeed
+  - Spider
+    - Now Spawns Cobwebs around its spawn location if below y=80
+    - Becomes Invisible while in spiderwebs
+    - Base Movespeed reduced
+    - Nighttime movespeed increased
+    - Spiderweb movespeed increased
+  - Skeleton
+    - Movespeed reduced
+    - Health Increased
+    - If hit will release 2 Silverfishes unless ignited
+  - Stray
+    - Same as Skeleton
+  - Creeper
+    - Blast Radius reduced to 2 if y>51 and increased to 5 if y<50
+  - Zombie
+    - Increased Health
+    - Decreased Movespeed
+    - Increased Damage
+    - Gets Increased Movespeed at night
+  - Baby Zombie
+    - Huge Nerfs because F those guys(Also logical for them to be weaker not stronger)
+    - Relatively increased movespeed
+    - Reduced Health
+    - Reduced Damage
+  - Husk
+    - Base Movespeed reduced
+    - Base Health Increase to 70
+    - Does not get speed boosts at night
+  - All hostile nighttime mobs
+    - Bonus to detection range during nighttime
+- Items:
+  - Anvil
+    - Can now be used to reset the items Repair cost value by throwing an item on top of an anvil
