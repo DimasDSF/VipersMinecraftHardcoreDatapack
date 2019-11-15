@@ -1,5 +1,5 @@
 #Buff all hostile night mobs
-execute as @e[type=#vhc:night_time_monsters,tag=!VHCNightTimeBuff] run function vhc:mobs/hostile_one_time
+execute as @e[type=#vhc:night_time_monsters,tag=!VHCNightTimeBuff] run function vhc:mobs/hostile_nightbuff
 
 #Nighttime Reapplying Buffs
 execute at @e[type=minecraft:zombie] run execute as @e[type=minecraft:zombie,limit=1,sort=nearest] run function vhc:mobs/zombie
