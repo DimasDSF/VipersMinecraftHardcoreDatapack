@@ -1,0 +1,2 @@
+execute positioned as @s run execute if block ~ ~-1 ~ minecraft:anvil run function vhc:reset_item_repair_cost
+execute positioned as @s run execute if block ~ ~-1 ~ minecraft:chipped_anvil run function vhc:reset_item_repair_cost

@@ -1,0 +1,2 @@
+execute if entity @s[nbt=!{Fire:-1s},tag=!VHCSkeletonSpawnedSilverfish] run tag @s add VHCSkeletonSpawnedSilverfish
+execute if entity @s[nbt=!{Health:30.0f},tag=!VHCSkeletonSpawnedSilverfish] run function vhc:mob_const/skeleton_spawn_silverfish

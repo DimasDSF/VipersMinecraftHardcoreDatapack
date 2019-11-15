@@ -1,0 +1,1 @@
+effect give @s minecraft:speed 10 2 true

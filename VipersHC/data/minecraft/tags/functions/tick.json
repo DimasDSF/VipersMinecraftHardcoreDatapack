@@ -1,0 +1,8 @@
+{
+    "values": [
+        "vhc:time_of_day_modification_loop",
+        "vhc:attribute_modification_loop",
+        "vhc:constant_mob_effect_loop",
+        "vhc:item_modification_loop"
+    ]
+}
