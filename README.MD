@@ -7,7 +7,7 @@ Created to enforce teamplay on SMP Servers and inhibit solo mining
   - Most Nighttime mobs:
     - Increased Health and Modified Movespeed
   - Spider
-    - Now Spawns Cobwebs around its spawn location if below y=80
+    - Now Spawns Cobwebs around its spawn location if y<50
     - Becomes Invisible while in spiderwebs
     - Base Movespeed reduced
     - Nighttime movespeed increased
